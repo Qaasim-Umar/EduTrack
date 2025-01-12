@@ -159,7 +159,7 @@ const ResultList = () => {
           ))}
         </tbody>
       </table>
-      <button onClick={saveToFirestore}>Save to Firestore</button>
+      <button onClick={saveToFirestore}>Finally update student result  </button>
     </div>
   );
 };

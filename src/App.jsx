@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import StudentDashboard from "./pages/Dashboard/StudentDashboard";
 import Home from "./pages/Home";
 import TeacherLogin from "./pages/UserLogin";
-import SuperSignUp from "./pages/SuperSIgnUp";
+import SuperSignUp from "./pages/SuperSignUp";
 import SuperDashboard from "./pages/Dashboard/SuperDashboard";
 import SuperLogin from "./pages/SuperLogin";
 import CreateUser from "./pages/CreateUser";
